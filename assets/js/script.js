@@ -9,7 +9,6 @@ var apiKey = "ae1bb438ea1280f801137813e453bc1e";
 var searchHistory = [];
 var searchHistoryEl = document.querySelector("#history");
 
-
 //search city handler
 var buttonHandler = function(event) {
     var targetEl = event.target;
